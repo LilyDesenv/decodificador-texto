@@ -1,6 +1,6 @@
 # Decodificador de Texto
 
-Este é um desafio proposta pela Alura Challenges Oracle ONE.
+Este é um desafio proposto pela Alura Challenges Oracle ONE.
 Este é um projeto simples de uma aplicação web para criptografar e descriptografar texto. A aplicação permite converter letras específicas em cadeias de texto predefinidas e também reverter o texto criptografado para o original.
 
 ## Funcionalidades
